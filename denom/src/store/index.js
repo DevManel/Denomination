@@ -5,4 +5,3 @@ import denominationReducer from './reducer/denominationReducer';
 const store = createStore(denominationReducer);
 
 export default store;
-
